@@ -29,40 +29,30 @@
 
 ## 🌐 Connect With Me
 
-<p align="center">
-  <a href="https://linkedin.com/in/khorsed-alam" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="LinkedIn"/>
-  </a>
-  <a href="https://www.hackerrank.com/khorsedalam0472" target="_blank">
-    <img src="https://skillicons.dev/icons?i=hackerrank" height="40" alt="HackerRank"/>
-  </a>
-  <a href="https://codeforces.com/profile/khorsedalam0472" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/1/1c/Codeforces_logo.svg" height="40" alt="Codeforces"/>
-  </a>
-  <a href="https://leetcode.com/khorsed_alam-472" target="_blank">
-    <img src="https://skillicons.dev/icons?i=leetcode" height="40" alt="LeetCode"/>
-  </a>
-  <a href="https://auth.geeksforgeeks.org/user/khorsedaf3z9" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/4/43/GeeksforGeeks.svg" height="40" alt="GeeksforGeeks"/>
-  </a>
-</p>
+<a href="https://linkedin.com/in/khorsed-alam" target="_blank">
+  <img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="LinkedIn"/>
+</a>
+<a href="https://www.facebook.com/khorsed.alam.954341/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=facebook" height="40" alt="Facebook"/>
+</a>
+<a href="https://www.instagram.com/khorsed_alam0/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=instagram" height="40" alt="Instagram"/>
+</a>
 
 ---
 
 ## 🛠️ Languages and Tools
 
-<p align="center">
-  <a href="https://flutter.dev" target="_blank"><img src="https://skillicons.dev/icons?i=flutter" height="40" /></a>
-  <a href="https://dart.dev" target="_blank"><img src="https://skillicons.dev/icons?i=dart" height="40" /></a>
-  <a href="https://www.figma.com/" target="_blank"><img src="https://skillicons.dev/icons?i=figma" height="40" /></a>
-  <a href="https://git-scm.com/" target="_blank"><img src="https://skillicons.dev/icons?i=git" height="40" /></a>
-  <a href="https://www.java.com" target="_blank"><img src="https://skillicons.dev/icons?i=java" height="40" /></a>
-  <a href="https://www.cprogramming.com/" target="_blank"><img src="https://skillicons.dev/icons?i=c" height="40" /></a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank"><img src="https://skillicons.dev/icons?i=cpp" height="40" /></a>
-  <a href="https://www.w3.org/html/" target="_blank"><img src="https://skillicons.dev/icons?i=html" height="40" /></a>
-  <a href="https://www.w3schools.com/css/" target="_blank"><img src="https://skillicons.dev/icons?i=css" height="40" /></a>
-  <a href="https://www.arduino.cc/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" height="40" /></a>
-</p>
+<a href="https://flutter.dev" target="_blank"><img src="https://skillicons.dev/icons?i=flutter" height="40" /></a>
+<a href="https://dart.dev" target="_blank"><img src="https://skillicons.dev/icons?i=dart" height="40" /></a>
+<a href="https://www.figma.com/" target="_blank"><img src="https://skillicons.dev/icons?i=figma" height="40" /></a>
+<a href="https://git-scm.com/" target="_blank"><img src="https://skillicons.dev/icons?i=git" height="40" /></a>
+<a href="https://www.java.com" target="_blank"><img src="https://skillicons.dev/icons?i=java" height="40" /></a>
+<a href="https://www.cprogramming.com/" target="_blank"><img src="https://skillicons.dev/icons?i=c" height="40" /></a>
+<a href="https://www.w3schools.com/cpp/" target="_blank"><img src="https://skillicons.dev/icons?i=cpp" height="40" /></a>
+<a href="https://www.w3.org/html/" target="_blank"><img src="https://skillicons.dev/icons?i=html" height="40" /></a>
+<a href="https://www.w3schools.com/css/" target="_blank"><img src="https://skillicons.dev/icons?i=css" height="40" /></a>
+<a href="https://www.arduino.cc/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" height="40" /></a>
 
 ---
 
