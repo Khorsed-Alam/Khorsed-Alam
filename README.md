@@ -1,34 +1,89 @@
-<h1 align="center">Hi 👋, I'm Khorsed Alam</h1>
-<h3 align="center">A passionate Flutter developer from Bangladesh</h3>
+<h1 align="center">👋 Hi, I'm Khorsed Alam</h1>
+<h3 align="center">🚀 Passionate Flutter Developer from Bangladesh 🇧🇩</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=khorsed-alam&label=Profile%20views&color=0e75b6&style=flat" alt="khorsed-alam" /> </p>
+---
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=khorsed-alam" alt="khorsed-alam" /></a> </p>
+## 👁️ Profile Overview
 
-- 🌱 I’m currently learning **API,Figma**
-
-- 👯 I’m looking to collaborate on **Flutter project**
-
-- 💬 Ask me about **Dart,Flutter**
-
-- 📫 How to reach me **khorsedalam0472@gmail.com**
-
-- ⚡ Fun fact **I think i am Boring**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/khorsed alam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="khorsed alam" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/khorsedalam0472" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="khorsedalam0472" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/khorsedalam0472" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="khorsedalam0472" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/khorsed_alam-472" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="khorsed_alam-472" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/khorsedaf3z9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="khorsedaf3z9" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=khorsed-alam&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="khorsed-alam" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> </p>
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=khorsed-alam&theme=onedark&no-frame=true&margin-w=10" alt="GitHub Trophies" />
+  </a>
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=khorsed-alam&show_icons=true&locale=en&layout=compact" alt="khorsed-alam" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=khorsed-alam&show_icons=true&locale=en" alt="khorsed-alam" /></p>
+## 👨‍💻 About Me
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=khorsed-alam&" alt="khorsed-alam" /></p>
+- 🌱 I’m currently learning **API Development** and **Figma UI/UX Design**  
+- 👯 I’m looking to collaborate on **Flutter Projects**  
+- 💬 Ask me about **Dart, Flutter, or Mobile App Development**  
+- 📫 How to reach me: **khorsedalam0472@gmail.com**  
+- ⚡ Fun fact: *I think I’m boring — but my code isn’t!* 😄  
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://linkedin.com/in/khorsed-alam" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="LinkedIn"/>
+  </a>
+  <a href="https://www.hackerrank.com/khorsedalam0472" target="_blank">
+    <img src="https://skillicons.dev/icons?i=hackerrank" height="40" alt="HackerRank"/>
+  </a>
+  <a href="https://codeforces.com/profile/khorsedalam0472" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/1c/Codeforces_logo.svg" height="40" alt="Codeforces"/>
+  </a>
+  <a href="https://leetcode.com/khorsed_alam-472" target="_blank">
+    <img src="https://skillicons.dev/icons?i=leetcode" height="40" alt="LeetCode"/>
+  </a>
+  <a href="https://auth.geeksforgeeks.org/user/khorsedaf3z9" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/43/GeeksforGeeks.svg" height="40" alt="GeeksforGeeks"/>
+  </a>
+</p>
+
+---
+
+## 🛠️ Languages and Tools
+
+<p align="center">
+  <a href="https://flutter.dev" target="_blank"><img src="https://skillicons.dev/icons?i=flutter" height="40" /></a>
+  <a href="https://dart.dev" target="_blank"><img src="https://skillicons.dev/icons?i=dart" height="40" /></a>
+  <a href="https://www.figma.com/" target="_blank"><img src="https://skillicons.dev/icons?i=figma" height="40" /></a>
+  <a href="https://git-scm.com/" target="_blank"><img src="https://skillicons.dev/icons?i=git" height="40" /></a>
+  <a href="https://www.java.com" target="_blank"><img src="https://skillicons.dev/icons?i=java" height="40" /></a>
+  <a href="https://www.cprogramming.com/" target="_blank"><img src="https://skillicons.dev/icons?i=c" height="40" /></a>
+  <a href="https://www.w3schools.com/cpp/" target="_blank"><img src="https://skillicons.dev/icons?i=cpp" height="40" /></a>
+  <a href="https://www.w3.org/html/" target="_blank"><img src="https://skillicons.dev/icons?i=html" height="40" /></a>
+  <a href="https://www.w3schools.com/css/" target="_blank"><img src="https://skillicons.dev/icons?i=css" height="40" /></a>
+  <a href="https://www.arduino.cc/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" height="40" /></a>
+</p>
+
+---
+
+## 📊 GitHub Stats & Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=khorsed-alam&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khorsed-alam&layout=compact&theme=tokyonight" alt="Top Languages" height="180"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=khorsed-alam&theme=tokyonight" alt="GitHub Streak" height="180"/>
+</p>
+
+---
+
+## 💬 Quote of the Day
+
+> *“To err is human – to debug, divine.”* 🧠  
+
+---
+
+⭐ **If you like my profile, consider giving it a star!**  
+💡 *Let's build something amazing together!*
