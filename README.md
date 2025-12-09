@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hey There, I'm <span style="color:#58a6ff;">Khorsed Alam</span></h1>
-<h3 align="center">🚀 Flutter Developer | Mobile App Enthusiast | Tech Explorer 🇧🇩</h3>
+<h3 align="center">🚀 Flutter Developer  🇧🇩</h3>
 
 ---
 
