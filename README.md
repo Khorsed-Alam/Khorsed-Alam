@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hey There, I'm <span style="color:#58a6ff;">Khorsed Alam</span></h1>
-<h3 align="center">🚀 Flutter Developer  🇧🇩</h3>
+<h3 align="center">🎓 CS Undergraduate Student 🇧🇩</h3>
 
 ---
 
@@ -19,11 +19,11 @@
 
 ## 👨‍💻 About Me
 
-- 🌱 Currently learning **API Development** & **Figma UI/UX Design**  
-- 👯 Open to collaborate on **Flutter Projects**  
-- 💬 Ask me about **Dart | Flutter | Mobile App Development**  
+- 🌱 Currently learning **JavaScript**, **Flutter**, & **API Development**  
+   
+- 💬 Ask me about **Figma | C | C++ | Java | HTML | CSS | DB | Dart**  
 - 📫 Email: **khorsedalam0472@gmail.com**  
-- ⚡ Fun fact: *I may be boring — but my code never is!* 😄  
+  
 
 ---
 
@@ -49,7 +49,7 @@
 ## 🛠️ Skills & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,figma,git,java,c,cpp,html,css,arduino" height="45" />
+  <img src="https://skillicons.dev/icons?i=figma,c,cpp,java,html,css,dart" height="45" />
 </p>
 
 ---
@@ -85,5 +85,5 @@
 
 <p align="center">
   ⭐ **If you enjoy my work, feel free to star the repo!**  
-  💡 *Let’s collaborate and build something amazing together!*  
+  💡 *Let's collaborate and build something amazing together!*  
 </p>
